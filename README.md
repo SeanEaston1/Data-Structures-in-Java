@@ -21,15 +21,15 @@
 - [x] Searching
   - [x] Linear Search
   - [x] Binary Search
-- [ ] Sorting
-  - [ ] Bubble Sort
-  - [ ] Selection Sort
-  - [ ] Insertion Sort
-  - [ ] Cyclic Sort
-  - [ ] Merge Sort
-  - [ ] Quick Sort
-- [ ] Strings
-- [ ] Recursion
+- [x] Sorting
+  - [x] Bubble Sort
+  - [x] Selection Sort
+  - [x] Insertion Sort
+  - [x] Cyclic Sort
+  - [x] Merge Sort
+  - [x] Quick Sort
+- [x] Strings
+- [x] Recursion
 - [ ] Backtracking
   - [ ] Maze Problem
   - [ ] N-Queens
